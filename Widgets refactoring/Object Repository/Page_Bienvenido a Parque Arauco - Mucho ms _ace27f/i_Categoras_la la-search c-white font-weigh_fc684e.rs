@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Categoras_la la-search c-white font-weigh_fc684e</name>
+   <tag></tag>
+   <elementGuidId>e7c4d6f7-d348-4612-9a6c-be7ca4dc7ae1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modyo-aa18dd65-c141-4f6e-9702-cd308de5a2ae/37c1e39db178a2b35cd9a5f2515ec4d70e72285b5742cfd24a58cb42ec9bea0f']/section/div/div/div[2]/button/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>la la-search c-white font-weight-bold search-ico</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modyo-aa18dd65-c141-4f6e-9702-cd308de5a2ae/37c1e39db178a2b35cd9a5f2515ec4d70e72285b5742cfd24a58cb42ec9bea0f&quot;)/section[@class=&quot;bg-white pad-top-2&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row d-flex justify-content-between align-items-center margin-desk&quot;]/div[@class=&quot;col-lg-6 col-12 searchbar-input-container&quot;]/button[@class=&quot;btn-corp btn-search&quot;]/i[@class=&quot;la la-search c-white font-weight-bold search-ico&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modyo-aa18dd65-c141-4f6e-9702-cd308de5a2ae/37c1e39db178a2b35cd9a5f2515ec4d70e72285b5742cfd24a58cb42ec9bea0f']/section/div/div/div[2]/button/i</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/i</value>
+   </webElementXpaths>
+</WebElementEntity>
